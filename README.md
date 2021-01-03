@@ -23,7 +23,14 @@ Quick reference to some statistical hypothesis tests, with sample code in Python
 2. Paired Student’s t-test
 3. Analysis of Variance Test (ANOVA)
 
-### 4. Stationarity Tests
+### 4. Non-parametric Statistical Hypothesis Tests
+(to compare data samples)
+
+1. Mann-Whitney U Test
+2. Kruskal-Wallis H Test
+
+
+### 5. Stationarity Tests
 (to check if a time series is stationary or not)
 
 1. Augmented Dickey-Fuller
